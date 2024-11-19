@@ -26,13 +26,13 @@ header .parent{
 }
 
 header .parent .son1{
-    font-size: 38px;
+    font-size: 25px;
     font-weight: 600;
     font-style: normal;
 }
 
 header .parent .menu a{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: normal;
     font-style: none;
     text-decoration: none;
@@ -70,14 +70,18 @@ section{
 section .logo{
     border-radius: 50%;
     padding-right: 300px;
+    width: 450px;
+    height: 450px;
 }
 
 section .logo img{
     border-radius: 50%;
+    width: 400px;
+    height: 400px;
 }
 
 section .about{
-    font-size: 34px;
+    font-size: 23px;
     text-align: right;
     word-spacing: 10px;
     border: 5px black;
